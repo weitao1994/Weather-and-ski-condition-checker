@@ -1,0 +1,1 @@
+# Weather-and-ski-condition-checker
