@@ -1,1 +1,2 @@
-# Weather-and-ski-condition-checker
+This is a weather and ski condition checker.
+For practicing ReactJS.
